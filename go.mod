@@ -1,4 +1,4 @@
-module go-api
+module github.com/fabri-lennart/godatapipe
 
 go 1.26.1
 
